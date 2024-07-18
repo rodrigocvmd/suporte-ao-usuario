@@ -57,7 +57,7 @@ function Login() {
 		<>
 			<section className="heading">
 				<h1>
-					<FaSignInAlt /> Entrar
+					<FaSignInAlt />Entrar
 				</h1>
 				<p>Por favor, entre na sua conta para acessar o suporte</p>
 			</section>
