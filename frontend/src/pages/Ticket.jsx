@@ -112,6 +112,7 @@ function Ticket() {
 							className="form-control"
 							placeholder="Digite a nota"
 							value={noteText}
+							style={{ resize: "none", width: "400px", height: "200px" }}
 							onChange={(e) => setNoteText(e.target.value)}></textarea>
 					</div>
 					<div className="form-group">

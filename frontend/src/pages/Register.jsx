@@ -121,7 +121,7 @@ function Register() {
 						/>
 					</div>
 					<div className="form-group">
-						<button className="btn btn-block">Registrar</button>
+						<button className="btn btn-block">Cadastrar</button>
 					</div>
 				</form>
 			</section>
