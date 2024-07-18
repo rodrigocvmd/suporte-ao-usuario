@@ -89,7 +89,7 @@ function Login() {
 						/>
 					</div>
 					<div className="form-group">
-						<button className="btn btn-block">Registrar</button>
+						<button className="btn btn-block">Entrar</button>
 					</div>
 				</form>
 			</section>
