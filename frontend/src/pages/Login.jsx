@@ -57,7 +57,7 @@ function Login() {
 		<>
 			<section className="heading">
 				<h1>
-					<FaSignInAlt />Entrar
+					<FaSignInAlt /> Entrar
 				</h1>
 				<p>Por favor, entre na sua conta para acessar o suporte</p>
 			</section>
@@ -89,7 +89,7 @@ function Login() {
 						/>
 					</div>
 					<div className="form-group">
-						<button className="btn btn-block">Entrar</button>
+						<button className="btn btn-block">Registrar</button>
 					</div>
 				</form>
 			</section>
