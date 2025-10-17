@@ -37,7 +37,7 @@ function Header() {
 						{currentPath !== "/login" && (
 							<>
 								<li>
-									<Link to="/login" id="login">
+									<Link to="/login">
 										<FaSignInAlt /> Entrar
 									</Link>
 								</li>
@@ -47,7 +47,7 @@ function Header() {
 						{currentPath !== "/register" && (
 							<>
 								<li>
-									<Link id="register" to="/register">
+									<Link to="/register">
 										<FaUser /> Cadastrar
 									</Link>
 								</li>
